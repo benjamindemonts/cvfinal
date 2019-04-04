@@ -1,0 +1,94 @@
+.page{
+	width: 60%;
+	margin: auto;
+	margin-top: 5%;
+	font size: 80%;
+	font-family: "Source sans pro", Calibri, Tahoma, sans-serif;
+}
+
+.infophoto{
+	height: 300px;
+}
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+
+.section{
+	margin-bottom: 20%
+}
+
+.sec-gauche{
+	float: left;
+}
+
+.sec-droite{
+	margin-left: 40%
+}
+
+stong{
+	font-size: 30%;
+}
+
+.section{
+	margin-bottom: 20%;
+	text-align: justify;
+}
+
+h2{
+	font-size: 150%;
+	color: #F08080;
+	text-transform: uppercase;
+	border-bottom: 3px solid #778899;
+
+}
+
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 120%; 
+}
+
+.sec-droite{
+	margin-left: 40%
+	margin-top: 50%;
+}
+.title{
+	font-weight: bold;
+	font-size: 120%
+}
+
+#forma-gauche p{
+	margin-bottom: 20%;
+	margin-top: 5%;
+}
+
+#forma-gauche-formation p{
+	margin-bottom: 40%;
+	margin-top: 5%;
+	line-height: 60%;
+}
+
+#forma-gauche-expe p{
+	margin-bottom: 40%;
+	margin-top: 5%;
+	line-height: 60%;
+}
+#forma-gauche-centre p{
+	margin-bottom: 40%;
+	margin-top: 5%;
+	line-height: 130%;
+}
+
+#forma-gauche-langues p{
+	margin-bottom: 40%;
+	margin-top: 5%;
+	line-height: 30%;
+}
+
+*/
+
+
+
